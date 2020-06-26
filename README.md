@@ -1,0 +1,2 @@
+# Multipath-reorder
+to discuss issues of packet re-ordering occuring as a specific problem in multi-path connections without reliable transport protocols such as TCP.  The topic is relevant for devices connected via multiple access technologies towards the network as is foreseen e.g. within Access Traffic Selection, Switching, and Splitting (ATSSS) service of 3rd Generation Partnership Project (3GPP) enabling fixed mobile converged (FMC) scenario
